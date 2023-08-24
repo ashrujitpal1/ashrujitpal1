@@ -41,3 +41,18 @@ I am a multi-cloud architect (AWS, GCP), DevOps engineer, Kubernetes administrat
  - 💯 [CREATE RESOURCES USING TERRAFORM, GITLAB & JENKINS PIPELINE IN MULTIPLE AWS ACCOUNTS](https://medium.com/@ashrujitpal/create-infrastructure-using-terraform-jenkins-pipeline-in-multiple-aws-accounts-52d3770a06b0)
  - 🚀 [Choose correct EFS throughput mode while create StorageClass for PVCs used in StatefulSets, EKS](https://medium.com/@ashrujitpal/choose-correct-efs-throughput-mode-while-create-storageclass-for-pvcs-in-the-eks-statefulsets-dc43515cabd5)
 <!-- BLOGPOSTS:END -->
+
+## My Certifications🏅
+
+<p align="left">
+  <a href="https://www.credly.com/badges/67ec9bf4-8819-4522-bdc8-b5b96a9bebc0">
+    <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/0c368b6d-dbbf-44fd-8792-a02e5e175be9">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/a2e805c2-5c74-4075-8c97-b943a0429bf5">
+    <img src="https://images.credly.com/size/680x680/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="120" height="120"></a>
+  <a href="https://www.credential.net/75ba8956-b554-45d4-ae78-59e1d05459e5">
+    <img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/52195i026166A8314559DC/image-dimensions/187x187?v=v2" width="120" height="120"></a>
+  <a href="https://www.credly.com/badges/0c6f1cec-459c-42db-82df-1472409cb571">
+    <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="117" height="117"></a>
+</p>
