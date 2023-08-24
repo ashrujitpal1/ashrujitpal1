@@ -1,5 +1,5 @@
 <h3 align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey there, This is Ashrujit
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey there, This is Ashrujit \n
   Multi Cloud Architect (AWS, GCP Pro) | Kubernetes (CKA) | Middleware/Microservices | API | DevOps
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
