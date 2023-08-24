@@ -4,6 +4,22 @@
 
 I am a multi-cloud architect (AWS, GCP), DevOps engineer, Kubernetes administrator, and developer with over a decade and a half of experience building enterprise-grade solutions. Specialized in AWS, Kubernetes, Docker, CI/CD tools, and Terraform, among others, I have set up many infrastructures from scratch for startups and enterprise-grade companies. I have migrated many large-scale on-premise applications into the cloud in the domain of banking, maritime logistics, and insurance.
 
+## Socials🌐
+
+[![Linkedin Badge](https://img.shields.io/badge/-ashrujitpal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashrujit-pal-80a22280/)](https://www.linkedin.com/in/ashrujit-pal-80a22280/)
+[![Medium Badge](https://img.shields.io/badge/-@ashrujitpal-1b1b1b?style=flat-square&labelColor=1b1b1b&logo=Medium&link=https://medium.com/@ashrujitpal)](https://medium.com/@ashrujitpal)
+[![Gmail Badge](https://img.shields.io/badge/-ashrujitpal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashrujitpal@gmail.com)](mailto:ashrujitpal@gmail.com)
+
+
+## Technologies💻
+
+### Languages :
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ### DevOps & Cloud Tools:
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
