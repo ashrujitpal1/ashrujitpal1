@@ -33,3 +33,11 @@ I am a multi-cloud architect (AWS, GCP), DevOps engineer, Kubernetes administrat
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+## Latest Blog Posts👇:
+  
+<!-- BLOGPOSTS:START -->
+ - 💫 [Create EKS and and install EBS, EFS add-ons using Github Actions, Terraform and Helm](https://medium.com/@ashrujitpal/create-eks-and-and-install-ebs-efs-add-ons-using-github-actions-terraform-and-helm-25e817c3c11a)
+ - 💯 [CREATE RESOURCES USING TERRAFORM, GITLAB & JENKINS PIPELINE IN MULTIPLE AWS ACCOUNTS](https://medium.com/@ashrujitpal/create-infrastructure-using-terraform-jenkins-pipeline-in-multiple-aws-accounts-52d3770a06b0)
+ - 🚀 [Choose correct EFS throughput mode while create StorageClass for PVCs used in StatefulSets, EKS](https://medium.com/@ashrujitpal/choose-correct-efs-throughput-mode-while-create-storageclass-for-pvcs-in-the-eks-statefulsets-dc43515cabd5)
+<!-- BLOGPOSTS:END -->
